@@ -1,0 +1,3 @@
+define(['modd'], function(modd){
+
+})
